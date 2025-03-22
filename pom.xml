@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.currencyconverter</groupId>
-    <artifactId>EvictionMap</artifactId>
+    <groupId>com.evictionmap</groupId>
+    <artifactId>eviction-map</artifactId>
     <version>1.0-SNAPSHOT</version>
     <description>A generic map with time-based eviction policy that automatically removes entries after a specified duration.</description>
 
